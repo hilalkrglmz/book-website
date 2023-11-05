@@ -1,0 +1,94 @@
+{
+    "books":[
+        {
+            "id": 1,
+            "title": "Suç ve Ceza",
+            "author": "Fyodor Dostoyevski",
+            "image": "https://cdn.kobo.com/book-images/34e6f747-43ec-4e20-801b-8e451fbf9958/353/569/90/False/suc-ve-ceza-4.jpg",
+            "year": 1866,
+            "page": 500,
+            "desc": "Etkileyici bir roman."
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": "George Orwell",
+            "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000064038-1.jpg",
+            "year": 1949,
+            "page": 328,
+            "desc": "Distopik bir başyapıt."
+        },
+        {
+            "id": 3,
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "image": "https://img.kitapyurdu.com/v1/getImage/fn:11494736/wh:true/wi:220",
+            "year": 1965,
+            "page": 412,
+            "desc": "Bilim kurgu klasiği."
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter ve Felsefe Taşı",
+            "author": "J.K. Rowling",
+            "image": "https://img.kitapyurdu.com/v1/getImage/fn:11566706/wh:true/wi:220",
+            "year": 1997,
+            "page": 309,
+            "desc": "Sihirli bir macera."
+        },
+        {
+            "id": 5,
+            "title": "Çavdar Tarlasındaki Çocuklar",
+            "author": "J.D. Salinger",
+            "image": "https://img.kitapyurdu.com/v1/getImage/fn:6532396/wh:true/wi:220",
+            "year": 1951,
+            "page": 214,
+            "desc": "Gençlik ve yabancılaşma hakkında bir hikaye."
+        },
+        {
+            "id": 6,
+            "title": "Bülbülü Öldürmek",
+            "author": "Harper Lee",
+            "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001863920001-1.jpg",
+            "year": 1960,
+            "page": 281,
+            "desc": "Irkçılık ve adalet temasıyla."
+        },
+        {
+            "id": 7,
+            "title": "Muhteşem Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "image": "https://i.dr.com.tr/cache/500x400-0/originals/0000000670736-1.jpg",
+            "year": 1925,
+            "page": 180,
+            "desc": "Zenginlik ve bozulmuş rüyaların ele alındığı bir roman."
+        },
+        {
+            "id": 8,
+            "title": "Gurur ve Önyargı",
+            "author": "Jane Austen",
+            "image": "https://iletisim.com.tr/Images/UserFiles/Images/Spot/gurur-ve-onyargi.jpg",
+            "year": 1813,
+            "page": 335,
+            "desc": "Aşk ve aile ilişkileri hakkında bir klasik."
+        },
+        {
+            "id": 9,
+            "title": "Hobbit",
+            "author": "J.R.R. Tolkien",
+            "image": "https://img.kitapyurdu.com/v1/getImage/fn:252616/wh:true/wi:220",
+            "year": 1937,
+            "page": 310,
+            "desc": "Fantastik bir yolculuk hikayesi."
+        },
+        {
+            "id": 10,
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "image": "https://img.kitapyurdu.com/v1/getImage/fn:11303181/wh:true/wi:220",
+            "year": 1851,
+            "page": 624,
+            "desc": "Bir balina avı ve obsesyonun hikayesi."
+        }
+    ]
+}
